@@ -1,0 +1,226 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Aug 2021 16:30:40 at http://kohette.com/wpthemes/narratium +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://kohette.com/wpthemes/narratium -O1 "D:\Web copied\Narratium" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:30:43	Warning: 	HTML file (184793 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/feed/
+16:30:43	Warning: 	HTML file (21132 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/comments/feed/
+16:30:47	Warning: 	HTML file (107947 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/wp-json/
+16:30:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://kohette.com/wpthemes/narratium/xmlrpc.php?rsd
+16:30:49	Warning: 	HTML file (55442 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/features-overview/
+16:30:49	Warning: 	HTML file (50412 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/extended-template-system/
+16:30:50	Warning: 	HTML file (80592 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/philosophy/
+16:30:51	Warning: 	HTML file (50630 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/internet/
+16:30:51	Warning: 	HTML file (76633 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/i-skyped-jacques-cousteaus-grandson-on-the-bottom-of-the-ocean/
+16:30:52	Warning: 	HTML file (64553 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/technology/
+16:30:52	Warning: 	HTML file (94297 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/science/
+16:30:54	Warning: 	HTML file (74174 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/author/kohette/
+16:30:56	Warning: 	HTML file (50473 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/
+16:30:56	Warning: 	HTML file (64596 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/how-dreams-of-spacefaring-zombies-led-to-the-launch-of-sputnik/
+16:30:57	Warning: 	HTML file (86241 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/algorithms-supercharged-gerrymandering-we-should-use-them-to-fix-it/
+16:31:00	Warning: 	HTML file (72345 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/5-years-cruising-the-world-they-still-living-the-dream/
+16:31:00	Warning: 	HTML file (80610 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/who-is-satoshi-nakamoto-the-creator-of-bitcoin/
+16:31:00	Warning: 	HTML file (62271 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/page/2/
+16:31:06	Warning: 	HTML file (83691 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer/
+16:31:06	Warning: 	HTML file (71998 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/the-nations-guaranteed-to-be-swallowed-by-the-sea/
+16:31:06	Warning: 	HTML file (74727 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/meet-aubrey-de-grey-the-researcher-who-wants-to-cure-old-age/
+16:31:09	Warning: 	HTML file (81285 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/haunted-by-his-brother-he-revolutionized-physics/
+16:31:14	Warning: 	HTML file (813 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=201
+16:31:42	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=135
+16:31:45	Warning: 	HTML file (49397 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/
+16:31:45	Warning: 	HTML file (160323 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/philosophy/feed/
+16:31:49	Warning: 	HTML file (69114 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/hacking/
+16:31:50	Warning: 	HTML file (52342 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/travel/
+16:31:52	Warning: 	HTML file (74119 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/the-arctic-seed-vault-puts-apocalyptic-talk-of-climate-change-in-perspective/
+16:31:54	Warning: 	HTML file (71417 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/floating-utopias-for-the-age-of-rising-seas/
+16:31:54	Warning: 	HTML file (58941 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/internet/feed/
+16:31:56	Warning: 	HTML file (3484 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/i-skyped-jacques-cousteaus-grandson-on-the-bottom-of-the-ocean/feed/
+16:31:59	Warning: 	HTML file (901 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=86
+16:32:03	Warning: 	HTML file (149970 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/technology/feed/
+16:32:06	Warning: 	HTML file (67441 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/what-the-near-future-is-actually-going-to-look-like/
+16:32:06	Warning: 	HTML file (70492 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/how-lasers-radar-and-local-economies-are-helping-save-world-heritage-sites/
+16:32:07	Warning: 	HTML file (71671 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/black-box-software-could-be-the-future-of-cryptography/
+16:32:10	Warning: 	HTML file (86576 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer-2/
+16:32:10	Warning: 	HTML file (181562 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/science/feed/
+16:32:10	Warning: 	HTML file (51797 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/science/page/2/
+16:32:12	Warning: 	HTML file (79082 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/author/kohette/feed/
+16:32:15	Warning: 	HTML file (52717 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/nature/
+16:32:17	Warning: 	HTML file (52686 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/photography/
+16:32:22	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=129
+16:32:24	Warning: 	HTML file (50307 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/installation-and-first-steps/
+16:32:24	Warning: 	HTML file (49965 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/layout-structure/
+16:32:24	Warning: 	HTML file (48729 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/ajax-navigation/
+16:32:25	Warning: 	HTML file (50257 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/featured-images-for-categories/
+16:32:26	Warning: 	HTML file (49632 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/interview-support-shortcodes/
+16:32:27	Warning: 	HTML file (50959 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/post-co-authors/
+16:32:28	Warning: 	HTML file (49229 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/posts-featured-video/
+16:32:31	Warning: 	HTML file (48821 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/posts-words-counter-reading-time/
+16:32:31	Warning: 	HTML file (48827 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/site-fonts-typography/
+16:32:32	Warning: 	HTML file (49374 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/theme-features/text-format-in-post-titles-subtitles/
+16:32:34	Warning: 	HTML file (48222 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/css-sass-files/
+16:32:35	Warning: 	HTML file (49279 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/docs/javascript-files/
+16:32:41	Warning: 	HTML file (5809 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/how-dreams-of-spacefaring-zombies-led-to-the-launch-of-sputnik/feed/
+16:32:42	Warning: 	HTML file (903 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=112
+16:32:48	Warning: 	HTML file (4591 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/algorithms-supercharged-gerrymandering-we-should-use-them-to-fix-it/feed/
+16:32:49	Warning: 	HTML file (913 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=108
+16:32:54	Warning: 	HTML file (3836 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/5-years-cruising-the-world-they-still-living-the-dream/feed/
+16:32:55	Warning: 	HTML file (887 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=102
+16:33:02	Warning: 	HTML file (6544 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/who-is-satoshi-nakamoto-the-creator-of-bitcoin/feed/
+16:33:05	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=99
+16:33:17	Warning: 	HTML file (5473 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer/feed/
+16:33:18	Warning: 	HTML file (939 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=96
+16:33:26	Warning: 	HTML file (5568 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/the-nations-guaranteed-to-be-swallowed-by-the-sea/feed/
+16:33:27	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=93
+16:33:37	Warning: 	HTML file (46805 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/tag/climate-change/
+16:33:42	Warning: 	HTML file (7768 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/meet-aubrey-de-grey-the-researcher-who-wants-to-cure-old-age/feed/
+16:33:42	Warning: 	HTML file (897 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=90
+16:33:51	Warning: 	HTML file (1866 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/haunted-by-his-brother-he-revolutionized-physics/feed/
+16:33:53	Warning: 	HTML file (873 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=83
+16:34:03	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=201
+16:34:03	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=201 to https://kohette.com/wpthemes/narratium/features-overview/
+16:34:03	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/Captura-de-pantalla-2017-10-12-a-las-12.58.38.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:03	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/Captura-de-pantalla-2017-10-12-a-las-12.58.51.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:03	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/Captura-de-pantalla-2017-10-12-a-las-12.59.12.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:04	Warning: 	HTML file (845 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=137
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/Captura-de-pantalla-2017-10-12-a-las-13.09.06.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/?attachment_id=254 (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/10.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/14.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/5.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/3.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/4.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/1.jpg (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/16-e1508315774665.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/19.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/18.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/12.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/15.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/11.png (from https://kohette.com/wpthemes/narratium/features-overview/)
+16:34:06	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=135
+16:34:06	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=135 to https://kohette.com/wpthemes/narratium/docs/theme-features/extended-template-system/
+16:34:08	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=133
+16:34:11	Warning: 	HTML file (76429 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/hacking/feed/
+16:34:13	Warning: 	HTML file (19493 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/travel/feed/
+16:34:15	Warning: 	HTML file (989 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/the-arctic-seed-vault-puts-apocalyptic-talk-of-climate-change-in-perspective/feed/
+16:34:17	Warning: 	HTML file (929 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=79
+16:34:21	Warning: 	HTML file (2343 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/floating-utopias-for-the-age-of-rising-seas/feed/
+16:34:23	Warning: 	HTML file (863 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=75
+16:34:33	Warning: 	HTML file (44309 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=46
+16:34:42	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=86
+16:34:42	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=86 to https://kohette.com/wpthemes/narratium/i-skyped-jacques-cousteaus-grandson-on-the-bottom-of-the-ocean/
+16:34:42	Warning: 	HTML file (3839 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/what-the-near-future-is-actually-going-to-look-like/feed/
+16:34:43	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=72
+16:34:48	Warning: 	HTML file (5951 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/how-lasers-radar-and-local-economies-are-helping-save-world-heritage-sites/feed/
+16:34:50	Warning: 	HTML file (925 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=53
+16:34:55	Warning: 	HTML file (6428 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/black-box-software-could-be-the-future-of-cryptography/feed/
+16:34:58	Warning: 	HTML file (885 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=50
+16:35:00	Warning: 	HTML file (71774 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/black-box-software-could-be-the-future-of-cryptography/?replytocom=10
+16:35:03	Warning: 	HTML file (6599 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer-2/feed/
+16:35:05	Warning: 	HTML file (945 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=183
+16:35:07	Warning: 	HTML file (52829 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/interviews/
+16:35:07	Warning: 	HTML file (52587 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/lifestyle/
+16:35:09	Warning: 	HTML file (46788 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/tag/inmortality/
+16:35:09	Warning: 	HTML file (46753 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/tag/life/
+16:35:13	Warning: 	HTML file (26822 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/nature/feed/
+16:35:16	Warning: 	HTML file (10556 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/photography/feed/
+16:35:17	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=129
+16:35:17	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=129 to https://kohette.com/wpthemes/narratium/docs/
+16:35:21	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=131
+16:35:25	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=141
+16:35:50	Warning: 	HTML file (861 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=139
+16:35:53	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/?p=159
+16:36:02	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=715
+16:36:02	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=715 to https://kohette.com/wpthemes/narratium/physicists-nail-down-the-magic-number-that-shapes-the-universe/
+16:36:02	Warning: 	Retry after error -4 (Connect Error) at link localhost:8888/themedev/wp-content/uploads/2018/12/brooke-cagle-39376-1024x683.jpg (from https://kohette.com/wpthemes/narratium/physicists-nail-down-the-magic-number-that-shapes-the-universe/)
+16:36:02	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=112
+16:36:02	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=112 to https://kohette.com/wpthemes/narratium/how-dreams-of-spacefaring-zombies-led-to-the-launch-of-sputnik/
+16:36:02	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=108
+16:36:02	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=108 to https://kohette.com/wpthemes/narratium/algorithms-supercharged-gerrymandering-we-should-use-them-to-fix-it/
+16:36:02	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=102
+16:36:02	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=102 to https://kohette.com/wpthemes/narratium/5-years-cruising-the-world-they-still-living-the-dream/
+16:36:19	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=99
+16:36:19	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=99 to https://kohette.com/wpthemes/narratium/who-is-satoshi-nakamoto-the-creator-of-bitcoin/
+16:36:19	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=96
+16:36:19	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=96 to https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer/
+16:36:19	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/07/A_Soul_in_Heaven_1878.jpg (from https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer/)
+16:36:19	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/07/Soldier_Vampire_by_Lostinfog88.jpg (from https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer/)
+16:36:19	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=93
+16:36:19	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=93 to https://kohette.com/wpthemes/narratium/the-nations-guaranteed-to-be-swallowed-by-the-sea/
+16:36:19	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/07/1401200280336425.png (from https://kohette.com/wpthemes/narratium/the-nations-guaranteed-to-be-swallowed-by-the-sea/)
+16:36:19	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/07/140120041171591.jpg (from https://kohette.com/wpthemes/narratium/the-nations-guaranteed-to-be-swallowed-by-the-sea/)
+16:36:19	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/07/140120041171591-2000x1539.jpg (from https://kohette.com/wpthemes/narratium/the-nations-guaranteed-to-be-swallowed-by-the-sea/)
+16:36:19	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/07/Malé_after_tsunami_cropped.jpg (from https://kohette.com/wpthemes/narratium/the-nations-guaranteed-to-be-swallowed-by-the-sea/)
+16:36:19	Warning: 	HTML file (13012 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/tag/climate-change/feed/
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=90
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=90 to https://kohette.com/wpthemes/narratium/meet-aubrey-de-grey-the-researcher-who-wants-to-cure-old-age/
+16:36:21	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/07/1400841202712231.jpg (from https://kohette.com/wpthemes/narratium/meet-aubrey-de-grey-the-researcher-who-wants-to-cure-old-age/)
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=83
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=83 to https://kohette.com/wpthemes/narratium/haunted-by-his-brother-he-revolutionized-physics/
+16:36:21	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/08/2289_43351f7bf9a215be70c2c2caa7555002.png (from https://kohette.com/wpthemes/narratium/haunted-by-his-brother-he-revolutionized-physics/)
+16:36:21	Error: 	"Not Found" (404) at link kohette.com/wpthemes/literatum/wp-content/uploads/2014/08/2247_df1f1d20ee86704251795841e6a9405a.png (from https://kohette.com/wpthemes/narratium/haunted-by-his-brother-he-revolutionized-physics/)
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=137
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=137 to https://kohette.com/wpthemes/narratium/docs/theme-features/color-schemes/
+16:36:21	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/Captura-de-pantalla-2017-10-09-a-las-15.31.28.png (from kohette.com/wpthemes/narratium/docs/theme-features/color-schemes/)
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=133
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=133 to https://kohette.com/wpthemes/narratium/docs/theme-features/
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=79
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=79 to https://kohette.com/wpthemes/narratium/the-arctic-seed-vault-puts-apocalyptic-talk-of-climate-change-in-perspective/
+16:36:21	Error: 	"Unauthorized" (401) at link https://kohette.com/wpthemes/narratium/wp-json/wp/v2/users/9 (from https://kohette.com/wpthemes/narratium/author/fbartell/)
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=75
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=75 to https://kohette.com/wpthemes/narratium/floating-utopias-for-the-age-of-rising-seas/
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=46
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=46 to https://kohette.com/wpthemes/narratium/the-strange-world-of-internet-role-play-has-gone-mainstream/
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=72
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=72 to https://kohette.com/wpthemes/narratium/what-the-near-future-is-actually-going-to-look-like/
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=53
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=53 to https://kohette.com/wpthemes/narratium/how-lasers-radar-and-local-economies-are-helping-save-world-heritage-sites/
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=50
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=50 to https://kohette.com/wpthemes/narratium/black-box-software-could-be-the-future-of-cryptography/
+16:36:21	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=183
+16:36:21	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=183 to https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer-2/
+16:36:22	Warning: 	HTML file (26834 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/interviews/feed/
+16:36:23	Warning: 	HTML file (26831 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/category/lifestyle/feed/
+16:36:25	Warning: 	HTML file (26832 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/tag/inmortality/feed/
+16:36:27	Warning: 	HTML file (26811 bytes) retransferred due to lack of cache: https://kohette.com/wpthemes/narratium/tag/life/feed/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=165
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=165 to https://kohette.com/wpthemes/narratium/docs/installation-and-first-steps/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=131
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=131 to https://kohette.com/wpthemes/narratium/docs/layout-structure/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=141
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=141 to https://kohette.com/wpthemes/narratium/docs/theme-features/ajax-navigation/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=163
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=163 to https://kohette.com/wpthemes/narratium/docs/theme-features/featured-images-for-categories/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=162
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=162 to https://kohette.com/wpthemes/narratium/docs/theme-features/interview-support-shortcodes/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=158
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=158 to https://kohette.com/wpthemes/narratium/docs/theme-features/post-co-authors/
+16:36:29	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/Captura-de-pantalla-2017-10-09-a-las-15.35.56.png (from https://kohette.com/wpthemes/narratium/docs/theme-features/post-co-authors/)
+16:36:29	Error: 	"Not Found" (404) at link kohette.com/wpthemes/narratium/wp-content/uploads/2017/10/Captura-de-pantalla-2017-10-09-a-las-15.36.15.png (from https://kohette.com/wpthemes/narratium/docs/theme-features/post-co-authors/)
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=160
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=160 to https://kohette.com/wpthemes/narratium/docs/theme-features/posts-featured-video/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=161
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=161 to https://kohette.com/wpthemes/narratium/docs/theme-features/posts-words-counter-reading-time/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=139
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=139 to https://kohette.com/wpthemes/narratium/docs/theme-features/site-fonts-typography/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=159
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=159 to https://kohette.com/wpthemes/narratium/docs/theme-features/text-format-in-post-titles-subtitles/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=164
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=164 to https://kohette.com/wpthemes/narratium/docs/css-sass-files/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=166
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=166 to https://kohette.com/wpthemes/narratium/docs/javascript-files/
+16:36:29	Warning: 	Retry after error -4 (Connect Error) at link localhost:8888/themedev/wp-content/uploads/2018/12/brooke-cagle-39376-1024x683.jpg (from https://kohette.com/wpthemes/narratium/physicists-nail-down-the-magic-number-that-shapes-the-universe/)
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=654
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=654 to https://kohette.com/wpthemes/narratium/how-dreams-of-spacefaring-zombies-led-to-the-launch-of-sputnik/pawel-kadysz-790-unsplash/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=650
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=650 to https://kohette.com/wpthemes/narratium/how-dreams-of-spacefaring-zombies-led-to-the-launch-of-sputnik/garrett-parker-118937-unsplash/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=690
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=690 to https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer-2/christopher-campbell-28567/
+16:36:29	Warning: 	Moved Permanently for https://kohette.com/wpthemes/narratium/?p=700
+16:36:29	Warning: 	File has moved from https://kohette.com/wpthemes/narratium/?p=700 to https://kohette.com/wpthemes/narratium/how-humans-will-respond-to-immortality-an-interview-with-philosopher-john-fischer-2/john-mark-arnold-42898/
+16:36:31	Error: 	"Connect Error" (-4) after 2 retries at link localhost:8888/themedev/wp-content/uploads/2018/12/brooke-cagle-39376-1024x683.jpg (from https://kohette.com/wpthemes/narratium/physicists-nail-down-the-magic-number-that-shapes-the-universe/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 51 seconds : 475 links scanned, 397 files written (27700298 bytes overall), 396 files updated [28877997 bytes received at 82273 bytes/sec], 3.5 requests per connection
+(31 errors, 184 warnings, 0 messages)
